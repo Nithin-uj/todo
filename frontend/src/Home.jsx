@@ -48,7 +48,7 @@ function Home() {
                                 type="password"
                                 className='mt-3'
                             />
-                            <div className='d-flex justify-content-between'>
+                            <div>
                             <Button variant="contained" className='mt-2' color='primary'>Sign up</Button>
                             </div>
                             </Box>
